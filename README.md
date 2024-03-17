@@ -5,5 +5,9 @@ Link data:
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
 About dataset:
 ![image](https://github.com/namphh/Pneumonia-Detection/assets/124813687/584b612a-75cd-425d-9a0a-da659e21bcac)
+
+
 About model:
+
+
 ![image](https://github.com/namphh/Pneumonia-Detection/assets/124813687/65c56e94-376a-4dd8-a495-c1ba079fcb31)
